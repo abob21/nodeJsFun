@@ -2,6 +2,7 @@
  *Author:Michael Ababio
  *Date: 11/21/2015
  *Purpose: Multiplying a pair of integers by converting to decimal
+ * put a little spice in it!!!
 */
 
 
